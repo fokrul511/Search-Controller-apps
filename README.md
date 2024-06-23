@@ -1,4 +1,4 @@
-# apps
+# Search Controller Simple apps
 
 A new Flutter project.
 
